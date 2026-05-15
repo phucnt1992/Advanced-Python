@@ -1,0 +1,17 @@
+[project]
+name = "advanced-python"
+description = "A collection of advanced Python concepts and techniques."
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "autopep8",
+    "fluentpy",
+    "ipdb",
+    "matplotlib",
+    "pandas",
+    "pytest",
+    "toolz",
+    "tqdm",
+    "pip",
+    "ipykernel"
+]
